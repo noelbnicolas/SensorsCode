@@ -23,5 +23,5 @@ Get reading from center sensor
   *}
 
   * The left and right sensor have a similar code with the differences on the channels
-  * First the sensor is cleared and a reading is taken which return the reading (ADC10MEM)
+  * First the sensor is cleared and a reading is taken which return the reading from the sensor(ADC10MEM)
 
